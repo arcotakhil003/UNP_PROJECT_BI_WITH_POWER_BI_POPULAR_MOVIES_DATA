@@ -2,6 +2,7 @@
 
 Completed this project as a part of my Value added course(VAC) with United Network of Professionals(UNP)
 This Power BI project focuses on analyzing a movie dataset that includes user ratings, tags, genres, and external links to IMDB and TMDB. The project leverages multiple datasets to gain insights into movie trends, user behavior, and tag relevance.
+
 Key Metrics & Analysis Areas:
 1) Total movies, unique users, total ratings, and unique tags
 2) Genre distribution and movies by genre
